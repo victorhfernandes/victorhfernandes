@@ -13,6 +13,4 @@
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorhfernandes&layout=compact&bg_color=000&border_color=000&title_color=FFF&text_color=FFF)
-
 
